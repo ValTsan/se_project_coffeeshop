@@ -16,3 +16,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 - Page Layout
 - Background
 - Forms
+- Animation and Keyframes
